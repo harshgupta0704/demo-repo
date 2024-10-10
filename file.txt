@@ -1,0 +1,1 @@
+This is normal text file i am writing just to practice some commands in git and github
